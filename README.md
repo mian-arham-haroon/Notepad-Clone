@@ -1,4 +1,3 @@
-```markdown
 # 📝 Notepad Clone - Tkinter Text Editor
 
 A powerful and user-friendly Notepad clone built with Python and Tkinter. This application supports essential text editing features including file handling, text formatting, theme switching, find & replace, print preview, and more.
@@ -95,5 +94,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 - **Your Name:** [Mian Arham Haroon](https://github.com/mian-arham-haroon)  
-- **Portfolio:** [Visit Here](https://mian-arham-haroon.github.io/arham_portfolio/)  
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Your feedback is greatly appreciated!
 ```
