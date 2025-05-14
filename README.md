@@ -32,7 +32,6 @@ A powerful and user-friendly Notepad clone built with Python and Tkinter. This a
 
 ## 🖥️ GUI Screenshots
 
-> Add screenshots of the application if available  
 > ![Light Mode](images/ss.png)
 
 ## 🚀 Getting Started
