@@ -1,7 +1,3 @@
-Here's a professional and detailed **`README.md`** file for your **Tkinter-based Notepad Clone** that you can upload to your GitHub repository:
-
----
-
 ```markdown
 # 📝 Notepad Clone - Tkinter Text Editor
 
@@ -100,16 +96,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - **Your Name:** [Mian Arham Haroon](https://github.com/mian-arham-haroon)  
 - **Portfolio:** [Visit Here](https://mian-arham-haroon.github.io/arham_portfolio/)  
-
 ```
-
----
-
-Let me know if you want:
-
-- A `LICENSE` file (e.g., MIT)
-- Screenshot placeholder image tags added
-- The README converted into HTML for a website/portfolio
-- Translated version (e.g., in Urdu)
-
-I'm happy to help!
