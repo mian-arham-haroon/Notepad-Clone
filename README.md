@@ -33,7 +33,7 @@ A powerful and user-friendly Notepad clone built with Python and Tkinter. This a
 ## 🖥️ GUI Screenshots
 
 > Add screenshots of the application if available  
-> *(e.g., `images/ss.png`)*
+> ![Light Mode](images/ss.png)
 
 ## 🚀 Getting Started
 
@@ -47,7 +47,7 @@ A powerful and user-friendly Notepad clone built with Python and Tkinter. This a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/notepad-clone.git
+   git clone https://github.com/mian-arham-haroon/notepad-clone.git
    cd notepad-clone
    ```
 
